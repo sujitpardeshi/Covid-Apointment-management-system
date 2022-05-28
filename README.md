@@ -1,1 +1,1 @@
-# Covid-Apointment-management-system
+# Apointment-management-system
